@@ -1,0 +1,25 @@
+.completed {
+    text-decoration: line-through;
+}
+
+.task-box {
+    width: 300px;
+    min-height: 150px;
+    padding: 15px;
+    margin-top: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+
+.task-box h2 {
+    margin-top: 0;
+}
+
+#taskList {
+    padding-left: 20px;
+}
+
+.completed {
+    text-decoration: line-through;
+}
